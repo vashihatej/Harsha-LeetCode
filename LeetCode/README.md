@@ -1,0 +1,103 @@
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetArchive](https://github.com/anujlunawat/LeetArchive)
+
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Easy/0219-contains-duplicate-ii) |
+| [0435-non-overlapping-intervals](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals) |
+| [0746-prefix-and-suffix-search](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0746-prefix-and-suffix-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Easy/0219-contains-duplicate-ii) |
+| [0746-prefix-and-suffix-search](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0746-prefix-and-suffix-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Easy/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0746-prefix-and-suffix-search) |
+## Design
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0746-prefix-and-suffix-search) |
+## Trie
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0746-prefix-and-suffix-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals) |
+## Concurrency
+|  |
+| ------- |
+| [1187-print-foobar-alternately](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/1187-print-foobar-alternately) |
+| [1203-print-in-order](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Easy/1203-print-in-order) |
+| [1316-fizz-buzz-multithreaded](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/1316-fizz-buzz-multithreaded) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Easy/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Easy/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vashihatej/Harsha-LeetCode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
